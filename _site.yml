@@ -1,0 +1,23 @@
+name: "Semillero GrEEA"
+output_dir: "."
+navbar:
+  title: "Semillero de Investigación en Economía Aplicada"
+  left:
+    - text: "Temas de interés"
+      href: informacion.html
+    - text: "Proyectos"
+      href: Proyectos.html
+    - text: "Integrantes"
+      href: Integrantes.html
+    - text: "Contacto"
+      href: contacto.html
+
+output:
+ html_document:
+   theme: spacelab
+   highlight: textmate
+   include:
+   after_body: _footer.html
+   css:
+   - 'styles.css'
+   - 'https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css'

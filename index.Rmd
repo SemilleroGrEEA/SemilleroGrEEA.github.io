@@ -1,0 +1,35 @@
+---
+title: "Semillero GrEEA"
+---
+
+---
+---
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/fotogrupo.jpeg" style="width:35%; border:10px solid; margin-right: 20px" align="left">
+
+<style>
+body {
+text-align: justify}
+
+body{ /* Normal  */
+      font-size: 12pt;
+  }
+</style>
+
+
+Bienvenidxs al Semillero GrEEA! Grupo de estudio en Economía Aplicada.
+
+Este es un Semillero de Investigación que tiene como propósito familiarizar a los estudiantes con la investigación aplicada en Economía, mediante el uso de herramientas básicas para analizar problemas económicos y sociales: formulación y desarrollo de proyectos de investigación, manejo y análisis de bases de datos, manejo de sofwares, elaboración de artículos académicos.  
+
+
+GrEEA hace parte del grupo Ginveco de la [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co) (Medellín-Colombia) y pueden participar todos lxs estudiantes que tengan interés en ampliar y complentar su formación académica en Economía.
+
+
+Email: semillerogreea@gmail.com
+
+Coordinadora: Erika R. Badillo, PhD en Economía
+
+Contacto: erika.badilloen@unaula.edu.co
+
+
