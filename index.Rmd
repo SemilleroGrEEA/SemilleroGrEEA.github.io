@@ -6,7 +6,7 @@ title: "Semillero GrEEA"
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/fotogrupo.jpeg" style="width:35%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/fotogrupo.jpeg" style="width:45%; border:10px solid; margin-right: 20px" align="left">
 
 <style>
 body {
@@ -18,32 +18,24 @@ body{ /* Normal  */
 </style>
 
 
-Bienvenidxs al Semillero GrEEA! Grupo de estudio en Economía Aplicada.
+Bienvenidxs al Semillero GrEEA! Grupo de estudio en Economía Aplicada.<br>
 
-<br>
-Este es un Semillero de Investigación que tiene como propósito familiarizar a los estudiantes con la investigación aplicada en Economía, mediante el uso de herramientas básicas para analizar problemas económicos y sociales: formulación y desarrollo de proyectos de investigación, manejo y análisis de bases de datos, manejo de softwares, modelos econométricos, elaboración de artículos académicos.
+Este es un Semillero de Investigación que tiene como propósito familiarizar a los estudiantes con la investigación aplicada en Economía, mediante el uso de herramientas básicas para analizar problemas económicos y sociales: formulación y desarrollo de proyectos de investigación, manejo y análisis de bases de datos, manejo de softwares, modelos econométricos, elaboración de artículos académicos.<br>
 
-<br>
-<br>
-<br>
 GrEEA hace parte del grupo [Ginveco](https://www.unaula.edu.co/economia/investigacion/grupo) de la [Universidad Autónoma Latinoamericana](https://www.unaula.edu.co) (Medellín-Colombia) y pueden participar todos lxs estudiantes que tengan interés en ampliar y complentar su formación académica en Economía.
-<br>
 <br>
 <br>
 <br>
 ***Datos de contacto***
 <br>
-<br>
 Email: semillerogreea@gmail.com
-<br>
 <br>
 <br>
 ***Coordinadora***
 <br>
-<br>
-Erika R. Badillo, PhD en Economía<br>
+[Erika R. Badillo](https://ebadilloe.github.io), PhD en Economía<br>
 Email: erika.badilloen@unaula.edu.co<br>
-Website: [ebadilloe.github.io](https://ebadilloe.github.io)
+
 
 
 
