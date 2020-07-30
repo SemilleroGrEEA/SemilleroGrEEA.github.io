@@ -14,7 +14,8 @@ navbar:
 
 output:
  html_document:
-   theme: spacelab
+ #spacelab
+   theme: united
    highlight: textmate
    include:
    after_body: _footer.html
