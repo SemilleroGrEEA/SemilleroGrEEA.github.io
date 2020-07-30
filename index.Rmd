@@ -21,7 +21,7 @@ body{ /* Normal  */
 Bienvenidxs al Semillero GrEEA! Grupo de estudio en Economía Aplicada.
 
 <br>
-Este es un Semillero de Investigación que tiene como propósito familiarizar a los estudiantes con la investigación aplicada en Economía, mediante el uso de herramientas básicas para analizar problemas económicos y sociales: formulación y desarrollo de proyectos de investigación, manejo y análisis de bases de datos, manejo de sofwares, modelos econométricos, elaboración de artículos académicos.
+Este es un Semillero de Investigación que tiene como propósito familiarizar a los estudiantes con la investigación aplicada en Economía, mediante el uso de herramientas básicas para analizar problemas económicos y sociales: formulación y desarrollo de proyectos de investigación, manejo y análisis de bases de datos, manejo de softwares, modelos econométricos, elaboración de artículos académicos.
 
 <br>
 <br>

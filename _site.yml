@@ -9,8 +9,7 @@ navbar:
       href: Proyectos.html
     - text: "Integrantes"
       href: Integrantes.html
-    - text: "Contacto"
-      href: contacto.html
+
 
 output:
  html_document:
